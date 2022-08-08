@@ -1,0 +1,21 @@
+@media screen and (max-width: 375px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: Montserrat, Fraunces, sans-serif;
+    background-color: var(--Cream);
+  }
+
+  .center {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+  }
+
+  .title {
+    color: blue;
+  }
+}
