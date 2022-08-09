@@ -9,7 +9,7 @@
   --White: hsl(0, 0%, 100%);
 }
 
-@media screen and (min-width: 376px) {
+@media screen and (min-width: 397px) {
   * {
     padding: 0;
     margin: 0;
