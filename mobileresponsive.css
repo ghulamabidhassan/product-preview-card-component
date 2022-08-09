@@ -24,17 +24,21 @@
   }
 
   .center {
-    margin: 25px 15px;
+    margin: 25px 25px;
     background-color: white;
     height: 90vh;
     border-radius: 8px;
     display: grid;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 0.8fr 1fr;
   }
 
   .left {
     background-image: url(./images/image-product-mobile.jpg);
-    background-size: cover;
+    /* height: auto;
+    width: auto; */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     border-radius: 8px 8px 0px 0px;
   }
 
