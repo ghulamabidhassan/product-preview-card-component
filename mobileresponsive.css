@@ -29,7 +29,7 @@
     height: 90vh;
     border-radius: 8px;
     display: grid;
-    grid-template-rows: 0.8fr 1fr;
+    grid-template-rows: 1fr 1fr;
   }
 
   .left {
