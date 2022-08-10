@@ -27,7 +27,7 @@
   .center {
     /* margin: 25px 25px; */
     background-color: white;
-    height: 90vh;
+    height: 100%;
     border-radius: 8px;
     display: grid;
     grid-template-rows: 1fr 1fr;
